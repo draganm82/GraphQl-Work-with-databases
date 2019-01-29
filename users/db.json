@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Bill",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "40",
+      "firstName": "Alex",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "41",
+      "firstName": "Nick",
+      "age": 23,
+      "companyId": "3"
+    },
+    {
+      "id": "42",
+      "firstName": "Mick",
+      "age": 24,
+      "companyId": "1"
+    },
+    {
+      "id": "43",
+      "firstName": "Kick",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "id": "44",
+      "firstName": "Rick",
+      "age": 33,
+      "companyId": "2"
+    },
+    {
+      "id": "45",
+      "firstName": "Dusan",
+      "age": 43,
+      "companyId": "1"
+    },
+    {
+      "id": "46",
+      "firstName": "Veran",
+      "age": 29,
+      "companyId": "3"
+    },
+    {
+      "id": "47",
+      "firstName": "Pavle",
+      "age": 45,
+      "companyId": "1"
+    },
+    {
+      "firstName": "Draskic",
+      "age": 33,
+      "id": "ZyfTr14"
+    },
+    {
+      "firstName": "Draskic",
+      "age": 33,
+      "id": "cXshvMM"
+    },
+    {
+      "firstName": "Han",
+      "age": 61,
+      "id": "pSQDAGM"
+    },
+    {
+      "firstName": "Krsman",
+      "age": 35,
+      "companyId": "2",
+      "id": "Mbd9VXE"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "intel",
+      "description": "processors"
+    }
+  ]
+}
